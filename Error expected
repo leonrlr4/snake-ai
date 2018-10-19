@@ -1,0 +1,4 @@
+line 262:
+     File "snake.py", line 262, in <module>
+                 win.addch(food/WIDTH, food/WIDTH, '@')
+                 TypeError: integer argument expected, got float
